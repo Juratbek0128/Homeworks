@@ -195,6 +195,9 @@
 # y = int(input())
 # print("(",x,",",y,")",end="")
 # ....
+####if28
+# year=2020
+# number_of_days = sum([pd.Period(f'{year}-{i}-1').daysinmonth for i in range(1,13)])
 # ###if29
 # a=int(input())
 # if a%2!=0:
