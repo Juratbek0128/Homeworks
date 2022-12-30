@@ -190,6 +190,10 @@
 #     print("2 chorak")
 # else:
 #     print("4 chorak")
+# ###if23
+# x = int(input())
+# y = int(input())
+# print("(",x,",",y,")",end="")
 # ....
 # ###if29
 # a=int(input())
